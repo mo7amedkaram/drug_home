@@ -1,0 +1,4 @@
+class DrugsLack {
+  int? id;
+  
+}
